@@ -1,0 +1,55 @@
+.text-container{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    
+
+  }
+  .photo-container{
+    text-align: center;
+    position: relative;
+    top: 30px;
+    
+  }
+.Riley{
+    
+    height: 300px;
+    border-radius: 100%;
+    border: 1px solid black;
+    align-items: center;
+   
+}
+.p1{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Times New Roman', Times, serif;
+  }
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    
+
+}
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: rgb(243, 153, 231);
+    color: white;
+}
